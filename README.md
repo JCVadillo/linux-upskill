@@ -36,7 +36,7 @@ linux-upskill/
 ├── README.md
 └── labs/
     ├── 01-get-to-know-your-server.md
-    └─02-swap-file-configuration.md
+    └── 02-swap-file-configuration.md
 ```
 
 ---
