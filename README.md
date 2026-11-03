@@ -16,8 +16,9 @@ Labs cover fundamental to advanced operational topics including remote SSH acces
 
 | # | Lab Name | Category | Tools Used | Status |
 |---|---|---|---|---|
-| 01 | [Get to Know Your Server](./labs/01-Linux%20Upskill-Challenge-Get-to-Know-Your-Server.md) | Server Provisioning & Recon | GCP, SSH, `lsblk`, `free`, `vmstat`, `iftop` | ✅ Complete |
+| 01 | [Day 1:Get to Know Your Server](./labs/01-Linux%20Upskill-Challenge-Get-to-Know-Your-Server.md) | Server Provisioning & Recon | GCP, SSH, `lsblk`, `free`, `vmstat`, `iftop` | ✅ Complete |
 | Act | [Swap File Configuration](./labs/Activity-Linux-Adding-a-Swap-File-to-a-Small-Cloud-Server.md) | Memory Management | `fallocate`, `chmod`, `mkswap`, `swapon`, `/etc/fstab` | ✅ Complete |
+| 02 | [Day 2: Basic Navigation](./labs/02-Linux-Upskill-Challenge-Day-2-Basic-Navigation.md) | Filesystem Navigation & File Management | `man`, `tldr`, `ls`, `mkdir`, `rmdir`, `touch`, `rm`, `pushd`, `popd`, `file`, `unzip` | ✅ Complete |
 
 ---
 
